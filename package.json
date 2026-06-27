@@ -1,0 +1,26 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitajainn/Book-Store-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitajainn/Book-Store-API/issues"
+  },
+  "homepage": "https://github.com/ankitajainn/Book-Store-API#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^26.0.1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
