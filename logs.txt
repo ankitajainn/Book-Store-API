@@ -1,0 +1,9 @@
+
+[1782658536347] GET /books/2
+[1782658543295] GET /books/4
+[1782658551514] POST /books
+[1782658633412] POST /books/title=sfafe/author=fafdfe
+[1782658680747] POST /books
+[1782658721056] POST /books
+[1782659096343] GET /books
+[1782663059548] GET /books
